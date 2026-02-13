@@ -1,2 +1,2 @@
 #!/usr/bin/env python3
-print("Heloo Chandu Maa Muddu Ma!")
+print("Heloo Chandu Maa Muddu Ma Muah!")
